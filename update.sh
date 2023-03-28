@@ -22,7 +22,7 @@ echo "setxkbmap es" >> ~/.config/bspwm/bspwmrc
 # Timezone configuration
 sudo timedatectl set-timezone Europe/Madrid
 
-# Chromium installation
-sudo apt-get install chromium
+# Some tools installation
+sudo apt-get install chromium seclists gobuster
 
 
