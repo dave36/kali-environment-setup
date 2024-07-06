@@ -4,7 +4,7 @@
 sudo apt-get update
 
 # Wallpaper configuration on VM init
-sudo cp wallpapers/maker-of-virtual-world-a6-1920x1080.jpg default-wallpaper ~/Pictures/Wallpapers/maker-of-virtual-world-a6-1920x1080.jpg
+sudo cp wallpapers/maker-of-virtual-world-a6-1920x1080.jpg ~/Pictures/Wallpapers/maker-of-virtual-world-a6-1920x1080.jpg
 default-wallpaper --set ~/Pictures/Wallpapers/maker-of-virtual-world-a6-1920x1080.jpg
 
 # Change polybar to top
